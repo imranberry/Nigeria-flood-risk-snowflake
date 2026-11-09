@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/*.tif
+data/*.geojson
+.DS_Store
+.streamlit/secrets.toml
+*.egg-info/
